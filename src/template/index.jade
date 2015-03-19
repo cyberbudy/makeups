@@ -1,5 +1,97 @@
 doctype html
 
-html
+html(lang="en")
+    head
+        title reutersTv
+        link(rel='stylesheet', type="text/css", href='css/main.css')
+        link(href='libs/bootstrap/css/bootstrap.min.css' rel='stylesheet')
+        meta(name='viewport', contant='width=device-width, initial-scale=1')
+
+        script(type='application/javascript', src='js/libs/jquery-min.js')
     body
-        p sd
+        div.header.bg-image
+            div.row
+                div.col-md-5.logo_wrapper
+                    div.logo_wrapper--logo
+                        h1 REUTERS TV
+            div.row
+                div.col-md-5.header_label
+                    div.header_label--label
+                        h1 TV NEWS. 
+                        br 
+                        h1 REINVENTED.
+                    div.header_label--subheading
+                        p Something about news bla-bla-bla-bla 
+                        br
+                        p and even more blablbalba
+                div.com-md-7
+            div.row
+                div.col-md-5.header_button
+                    div.header_button--btn
+                        a(href="#") watch video
+        div.content
+            div.container-fluid
+                div.row.row--content--header
+                    div.col-md-4.content--header
+                        h1 REUTERS
+                        h1 NOW
+                    div.col-md-4.content--title
+                        h2 Play news tuned to you
+                        p Images and something else, bla bla bal bla bla
+                img(src="../files/img/iphone6.min.png", alt="")
+                div.row.content--first_row
+                    div.col-md-5.content--first_row--first_col
+                        h3 ON DEMAND
+                        p something about on demand blalbalblalbalblablab
+                    div.col-md-4.content--first_row--second_col
+                        h3 UP TO DATE
+                        p some data not interensting just another shit
+                div.row.content--second_row
+                    div.col-md-5.content--second_row--first_col
+                        h3 RELEVANT TO YOU
+                        p another not curious data peace
+                    div.col-md-5.content--second_row--second_col
+                        h3 ANY DURATION
+                        p finally. the last post at this part.
+        div.feeds
+            div.container
+                img.img_right(src="files/img/iphone-bg-lg.min.png", alt="")
+                    
+                div.row
+                    div.col-md-5.feeds--header
+                        h1 FEEDS
+                        h2 Some uninteresting stuff in a header
+                        p Header's explanations
+                div.row
+                    div.col-md-5
+                        h3 HEADER'S TITLE
+                        p Geografic stuff about how cool they are
+                div.row
+                    div.col-md-5
+                        h3 LAST FEED'S HEADER
+                        p Yay. They've created a social web
+                div.row
+                    div.col-md-5
+                        h3 ANOTHER HEADER TITLE
+                        p Too much attension to a simple filters
+        div.subscribe
+            div.container-fluid
+                div.row
+                    div.col-md-4.col-md-offset-5.subscribe--header
+                        h1 Coming Early 2015
+                div.row
+                    div.col-md-4.col-md-offset-5.subscribe--input
+                        input(type="text", placeholder="Subscribe for spam")
+                        input.btn-submit(type="submit" value="SUBMIT")
+        div.footer
+            dic.container
+                div.row.contacts
+                    div.col-md-4.col-md-offset-5
+                        p Copiright of this shit
+                        ul
+                            li
+                                a(href="#") Press
+                            li 
+                                a(href="#") Terms of Use
+                            li 
+                                a(href="#") Privacy Policy

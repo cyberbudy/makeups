@@ -1,0 +1,1209 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"content",
+				"content--second_row"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"con",
+				"content--title"
+			],
+			[
+				"in",
+				"inp	input()"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"header",
+				"header_label--label"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"styl",
+				"stylus"
+			],
+			[
+				"sty",
+				"stylus"
+			],
+			[
+				"htm",
+				"HTMLParser"
+			],
+			[
+				"par",
+				"parser_logic"
+			],
+			[
+				"spli",
+				"splitter"
+			],
+			[
+				"req",
+				"requests"
+			],
+			[
+				"url",
+				"urllib3"
+			],
+			[
+				"height",
+				"heightCoeff"
+			],
+			[
+				"width",
+				"widthCoeff"
+			],
+			[
+				"shelve",
+				"shelveForm"
+			],
+			[
+				"She",
+				"ShelveTab"
+			],
+			[
+				"shel",
+				"shelveHeight"
+			],
+			[
+				"she",
+				"shelveColor"
+			],
+			[
+				"color",
+				"colorDialog"
+			],
+			[
+				"colo",
+				"colorDialog"
+			],
+			[
+				"close",
+				"closeBtn"
+			],
+			[
+				"work",
+				"workType_id"
+			],
+			[
+				"QQml",
+				"QQmlApplicationEngine"
+			],
+			[
+				"g",
+				"guestbook"
+			],
+			[
+				"new",
+				"newGuestbook"
+			],
+			[
+				"action",
+				"action_function"
+			],
+			[
+				"opti",
+				"option_select"
+			],
+			[
+				"opt",
+				"opt_pass"
+			],
+			[
+				"passa",
+				"passages_select"
+			],
+			[
+				"paas",
+				"passages"
+			],
+			[
+				"middle",
+				"middlename"
+			],
+			[
+				"middlenae",
+				"middlename_input"
+			],
+			[
+				"last",
+				"lastname_input"
+			],
+			[
+				"house",
+				"house_id"
+			],
+			[
+				"s",
+				"source"
+			],
+			[
+				"i",
+				"if	if"
+			],
+			[
+				"hea",
+				"headers"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"owners",
+				"owners-table"
+			],
+			[
+				"tH",
+				"thead	Tag"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"pass",
+				"passage-desc"
+			],
+			[
+				"passage",
+				"passage-num"
+			],
+			[
+				"onC",
+				"onclick	Attr"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"values",
+				"values_string"
+			],
+			[
+				"col",
+				"col_string"
+			],
+			[
+				"func_get_arg",
+				"func_get_args"
+			],
+			[
+				"create",
+				"create_owner"
+			],
+			[
+				"tetx",
+				"text-align"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"tran",
+				"translate"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"list-style-",
+				"list-style-type"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"inject",
+				"injectedMethod"
+			],
+			[
+				"get",
+				"getBgColors"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"play",
+				"playMP3"
+			],
+			[
+				"time",
+				"timeoutRef"
+			],
+			[
+				"tim",
+				"timeoutRef"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"net",
+				"net_bottom"
+			],
+			[
+				"net_",
+				"net_front"
+			],
+			[
+				"gate",
+				"gate_dir"
+			],
+			[
+				"gettu",
+				"get_turn_angle"
+			],
+			[
+				"worl",
+				"world_y"
+			],
+			[
+				"puck",
+				"puck_h_owner"
+			],
+			[
+				"owner",
+				"owner_hockeyist_id"
+			],
+			[
+				"azovhotels",
+				"azovhotels_roomtyperate"
+			],
+			[
+				"azovhot",
+				"azovhotels_roomtyperate"
+			],
+			[
+				"azo",
+				"azovhotels_roomtyperate"
+			],
+			[
+				"replace",
+				"replace_mail_tags"
+			],
+			[
+				"Res",
+				"ReservationDetailSerializer"
+			],
+			[
+				"reser",
+				"reservation_details"
+			],
+			[
+				"Room",
+				"RoomTypeListSerializer"
+			],
+			[
+				"room",
+				"rooms_available"
+			],
+			[
+				"end",
+				"ending_at__gt"
+			],
+			[
+				"sta",
+				"starting_at__lt"
+			],
+			[
+				"rser",
+				"reservations_all"
+			],
+			[
+				"rooms",
+				"rooms_indexes"
+			],
+			[
+				"all",
+				"all_available"
+			],
+			[
+				"inter",
+				"internal_available"
+			],
+			[
+				"reserva",
+				"reservation_set_status"
+			],
+			[
+				"dates",
+				"dates_between_in_year"
+			],
+			[
+				"comme",
+				"comment_serializer"
+			],
+			[
+				"commn",
+				"comment_serializer"
+			],
+			[
+				"parent",
+				"parent_id"
+			],
+			[
+				"room_inex",
+				"rooms_indexes"
+			],
+			[
+				"min",
+				"min_available_rooms"
+			],
+			[
+				"reservation",
+				"reservations_internal"
+			],
+			[
+				"date",
+				"date_end"
+			],
+			[
+				"start",
+				"starting_at"
+			],
+			[
+				"pre",
+				"prepayment_summ"
+			],
+			[
+				"days",
+				"days_delta"
+			],
+			[
+				"def",
+				"def_price"
+			],
+			[
+				"reservatino",
+				"reservation_prices"
+			],
+			[
+				"dates_",
+				"dates_price"
+			],
+			[
+				"hotel",
+				"hotel_id"
+			],
+			[
+				"Ho",
+				"HotelAtomSerializer"
+			],
+			[
+				"Hotel",
+				"HotelListSerializer"
+			],
+			[
+				"workin",
+				"working_till"
+			],
+			[
+				"most",
+				"most_cities"
+			],
+			[
+				"azovhote",
+				"azovhotels"
+			],
+			[
+				"azovhotels_room",
+				"azovhotels_roomtype"
+			],
+			[
+				"room_typ",
+				"room_type"
+			],
+			[
+				"az",
+				"azovhotels_roomtype"
+			],
+			[
+				"room_",
+				"rooms_available"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/template/index.jade",
+			"settings":
+			{
+				"buffer_size": 4083,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/stylus/main.styl",
+			"settings":
+			{
+				"buffer_size": 2852,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "build/development/index.html",
+			"settings":
+			{
+				"buffer_size": 4412,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "build/development/css/main.css",
+			"settings":
+			{
+				"buffer_size": 2694,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/downloads/css/main.css",
+			"settings":
+			{
+				"buffer_size": 53644,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/downloads/Reuters TV.html",
+			"settings":
+			{
+				"buffer_size": 1754,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/python3.sublime-build",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+		"/D/Web/OpenServer/domains/makeups",
+		"/D/Web/OpenServer/domains/makeups/build",
+		"/D/Web/OpenServer/domains/makeups/build/development",
+		"/D/Web/OpenServer/domains/makeups/src",
+		"/D/Web/OpenServer/domains/makeups/src/js",
+		"/D/Web/OpenServer/domains/makeups/src/stylus",
+		"/D/Web/OpenServer/domains/makeups/src/template"
+	],
+	"file_history":
+	[
+		"/D/workspace/test/index.css",
+		"/D/Web/OpenServer/domains/makeups/src/stylus/main.styl",
+		"/D/workspace/test/index.html",
+		"/D/workspace/pms",
+		"/C/Users/Alex/Dropbox/Узяков/Вопросы, пожелания, предложения.txt",
+		"/D/Web/OpenServer/domains/makeups/package.json",
+		"/D/Web/OpenServer/domains/makeups/src/stylus/index.styl",
+		"/D/Web/OpenServer/domains/makeups/build/development/css/index.css",
+		"/D/Web/OpenServer/domains/makeups/gulpfile.js",
+		"/D/Web/OpenServer/domains/makeups/build/development/index.html",
+		"/D/Web/OpenServer/domains/makeups/bower.json",
+		"/D/Web/OpenServer/domains/makeups/README.md",
+		"/D/downloads/css/normalize.css",
+		"/D/downloads/Reuters TV.html",
+		"/D/downloads/css/main.css",
+		"/D/downloads/Starter Template for Bootstrap.html",
+		"/D/Web/OpenServer/domains/makeups/src/js/main.js",
+		"/D/Web/OpenServer/domains/makeups/src/template/index.jade",
+		"/D/Web/OpenServer/domains/makeups/src/stylus/index,css.",
+		"/D/Web/OpenServer/domains/makeups/node_modules/bootstrap/package.json",
+		"/D/Web/OpenServer/domains/makeups/node_modules/bootstrap/dist/css/bootstrap.css",
+		"/D/Web/OpenServer/domains/makeups/node_modules/bootstrap/dist/css/bootstrap.min.css",
+		"/D/Web/OpenServer/domains/makeups/node_modules/bootstrap/dist/css/bootstrap-theme.css",
+		"/D/Web/OpenServer/domains/makeups/node_modules/bootstrap/dist/css/bootstrap-theme.min.css",
+		"/D/Web/OpenServer/domains/makeups/node_modules/bootstrap/dist/css/bootstrap-theme.css.map",
+		"/D/Web/OpenServer/domains/makeups/node_modules/bootstrap/docs/getting-started.html",
+		"/D/Web/OpenServer/domains/makeups/assets/template/index.html",
+		"/D/Web/OpenServer/domains/larstud/README.md",
+		"/D/exe_bug",
+		"/D/end",
+		"/D/bug.gml",
+		"/E/Poliklinnika/Из серьёзных замечаний - не отражается запись УЗИ",
+		"/D/workspace/parser/1.txt",
+		"/D/workspace/parser/run.bat",
+		"/D/workspace/parser/code.py",
+		"/D/workspace/parser/html.py",
+		"/D/workspace/diploma/toExe.py",
+		"/D/workspace/diploma/assets/qml/ShelveForm.qml",
+		"/D/workspace/diploma/assets/qml/ShelveTab.qml",
+		"/D/workspace/diploma/assets/qml/test.qml",
+		"/D/workspace/diploma/main.py",
+		"/D/workspace/map.txt",
+		"/D/workspace/diploma/map.txt",
+		"/D/workspace/recipes",
+		"/D/Web/OpenServer/domains/calculator/database/migrations/2015_02_27_100005_create_element_templates_table.php",
+		"/D/Web/OpenServer/domains/calculator/database/migrations/2015_02_27_100006_create_work_types_table.php",
+		"/D/downloads/lab/1.md",
+		"/D/Web/OpenServer/domains/calculator/database/migrations/2015_02_27_161505_create_forms_table.php",
+		"/D/Web/OpenServer/domains/calculator/database/migrations/2015_02_27_161518_create_work_types_table.php",
+		"/D/Web/OpenServer/domains/calculator/database/migrations/2015_02_27_161554_create_work_type_to_element_templates_table.php",
+		"/D/Web/OpenServer/domains/calculator/database/migrations/2015_02_27_161604_create_labels_table.php",
+		"/D/Web/OpenServer/domains/calculator/database/migrations/2015_02_27_161512_create_options_table.php",
+		"/D/Web/OpenServer/domains/calculator/database/migrations/2015_02_27_161532_create_element_templates_table.php",
+		"/D/Web/OpenServer/domains/calculator/database/migrations/2015_02_27_161615_create_label_to_element_templates_table.php",
+		"/D/Web/OpenServer/domains/calculator/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/Web/OpenServer/domains/calculator/database/migrations/2015_02_27_161454_create_reports_table.php",
+		"/D/Web/OpenServer/domains/calculator/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/D/Web/OpenServer/domains/laravel/readme.md",
+		"/D/Web/OpenServer/domains/calculator/config/database.php",
+		"/D/Web/OpenServer/domains/calculator/app/User.php",
+		"/C/Python34/Lib/site-packages/PyQt5/qml/QtQuick/Controls/Styles/Base/MenuBarStyle.qml",
+		"/D/Web/OpenServer/modules/php/PHP-5.5.6/php.ini-development",
+		"/D/workspace/diploma/test.qml",
+		"/D/Web/OpenServer/domains/guest-book/protected/config/database.php",
+		"/D/Web/OpenServer/domains/guest-book/protected/views/guestbook/_form.php",
+		"/D/Web/OpenServer/domains/guest-book/protected/views/guestbook/post.php",
+		"/D/Web/OpenServer/domains/guest-book/protected/views/guestbook/index.php",
+		"/D/Web/OpenServer/domains/guest-book/protected/controllers/GuestbookController.php",
+		"/D/Web/OpenServer/domains/guest-book/protected/models/Guestbook.php",
+		"/D/Web/OpenServer/domains/guest-book/protected/config/main.php",
+		"/D/Web/OpenServer/domains/studying/0.3/php/db_connect.php",
+		"/D/Web/OpenServer/domains/studying/assets/php/db.php",
+		"/D/downloads/script.js",
+		"/D/Web/OpenServer/domains/studying/0.3/php/get_subjects.php",
+		"/D/Web/OpenServer/domains/studying/assets/php/house.php",
+		"/D/Web/OpenServer/domains/studying/assets/js/index.js",
+		"/D/Web/OpenServer/domains/studying/index.html",
+		"/D/Web/OpenServer/domains/guest-book/protected/models/ContactForm.php",
+		"/D/Web/OpenServer/domains/studying/html/subjects.html",
+		"/D/Web/OpenServer/domains/guest-book/protected/models/LoginForm.php",
+		"/D/Web/OpenServer/domains/studying/php/save_house.php",
+		"/D/Web/OpenServer/domains/studying/php/get_subjects.php",
+		"/D/Web/OpenServer/domains/studying/php/house.php",
+		"/D/Web/OpenServer/domains/studying/js/subject.js",
+		"/D/Web/OpenServer/domains/guestbook/index.php",
+		"/D/Web/OpenServer/domains/guestbook/protected/config/main.php",
+		"/D/Web/OpenServer/domains/advanced/environments/index.php",
+		"/D/Web/OpenServer/domains/advanced/yii.bat",
+		"/D/Web/OpenServer/domains/studying/0.3/php/house.php",
+		"/D/Web/OpenServer/domains/studying/php/db_connect.php",
+		"/D/downloads/Ajax table - edit delete add rows with Ajax - InfoTuts.html",
+		"/C/Users/Alex/AppData/Local/Temp/_tc/add stock/файлы opencart отвечающие за product/controller - product.php",
+		"/D/downloads/Новые фотографии.html",
+		"/G/Библиотека/Средства для стирки/list.txt",
+		"/D/Web/OpenServer/domains/studying/0.1/style.css",
+		"/C/Users/Alex/AppData/Local/Temp/_tc_/index.html",
+		"/D/workspace/poem_page/index.html",
+		"/D/workspace/poem_page/style.css",
+		"/D/ре.txt",
+		"/D/Web/OpenServer/domains/studying/db_connect.php",
+		"/D/Web/OpenServer/domains/studying/owners.php",
+		"/D/Web/OpenServer/domains/studying/index.php",
+		"/D/Web/OpenServer/domains/studying/0.1/index.php",
+		"/C/Users/Alex/Dropbox/Узяков/11.txt",
+		"/D/Web/OpenServer/domains/studying/request_handling.php",
+		"/D/workspace/ззьы",
+		"/D/Web/OpenServer/domains/studying/db.php",
+		"/D/Web/OpenServer/domains/studying/owner_cart.css",
+		"/D/Web/OpenServer/domains/studying/server_owner.php",
+		"/D/Web/OpenServer/domains/studying/owner_cart.php",
+		"/D/torrents/europe/Europa.Universalis.IV.Art.of.War-CODEX/Read me.txt",
+		"/D/workspace/11.txt",
+		"/D/11.txt",
+		"/D/torrents/spaceman/Библиотека/Вино/4600868001643.1",
+		"/D/Web/OpenServer/domains/studying/owner-carts.php",
+		"/D/downloads/Endi_Veyer_-_Marsianin.fb2",
+		"/C/Users/Alex/AppData/Local/Google/Chrome/User Data/Default/Extensions/imcncdfdhemlpcblfkilloceahbhddnj/1.5_0/fb2-to-html.xsl",
+		"/C/Users/Alex/AppData/Local/Google/Chrome/User Data/Default/Extensions/imcncdfdhemlpcblfkilloceahbhddnj/1.5_0/fb2reader.html",
+		"/C/Users/Alex/AppData/Local/Google/Chrome/User Data/Default/Extensions/imcncdfdhemlpcblfkilloceahbhddnj/1.5_0/BookLibrary.js",
+		"/C/Users/Alex/AppData/Local/Google/Chrome/User Data/Default/Extensions/imcncdfdhemlpcblfkilloceahbhddnj/1.5_0/ReaderApp.js",
+		"/D/Web/OpenServer/domains/studying/owner_cart.html",
+		"/C/Users/Alex/AppData/Local/Google/Chrome/User Data/Default/Extensions/imcncdfdhemlpcblfkilloceahbhddnj/1.5_0/WebDB.js",
+		"/D/Web/OpenServer/domains/studying/queries.php",
+		"/D/Web/OpenServer/domains/studying/style.css",
+		"/C/Users/Alex/AppData/Local/Google/Chrome/User Data/Default/Extensions/imcncdfdhemlpcblfkilloceahbhddnj/1.5_0/FileBlobs.js",
+		"/D/Web/OpenServer/domains/studying/add_owner.php",
+		"/D/Web/OpenServer/domains/studying/main.js",
+		"/D/Web/OpenServer/domains/studying/main.css"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"D:\\downloads\\css",
+			"D:\\workspace\\Qt\\LicenseManager",
+			"D:\\workspace\\work-test\\env\\Lib\\site-packages\\django\\db\\models",
+			"D:\\workspace\\work-test\\env\\Lib\\site-packages\\django\\core\\management\\commands",
+			"D:\\workspace\\work-test\\env\\Lib\\site-packages\\django",
+			"D:\\workspace\\bitbucket\\pavlovproduct-azovhotels\\azovhotels\\views",
+			"D:\\programs\\python2\\Lib\\site-packages\\post_office",
+			"C:\\Users\\Alex\\Documents\\django-mailer-2-master\\django_mailer",
+			"D:\\programs\\python2\\Lib\\site-packages\\django-1.6.4-py2.7.egg\\django\\template",
+			"C:\\Users\\Alex\\Documents\\django-mailer-2-master\\django_mailer",
+			"C:\\Users\\Alex\\Documents\\django-mailer-master\\mailer",
+			"D:\\workspace\\bitbucket\\123\\pavlovproduct-azovhotels\\azovhotels\\models",
+			"D:\\workspace\\bitbucket\\pavlovproduct-azovhotels\\azovhotels",
+			"D:\\workspace\\bitbucket\\pavlovproduct-azovhotels\\azovhotels\\views\\site",
+			"D:\\workspace\\qml_autoreload",
+			"D:\\workspace\\desktop",
+			"D:\\Web\\OpenServer\\domains\\localhost\\pavlovproduct-azovhotels\\app\\database\\seeds",
+			"D:\\wardrobe-master",
+			"D:\\Olimpiad\\Timus",
+			"F:\\sh_python",
+			"D:\\programs\\python3\\Lib\\site-packages\\PyQt5\\examples\\quick",
+			"D:\\programs\\python3\\Lib\\site-packages\\PyQt5\\examples"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"30px",
+			"header_left_padding",
+			"h1",
+			"line",
+			"35%",
+			"header_button",
+			"260px",
+			"fluid",
+			"300px",
+			"hero",
+			"hero-home",
+			"hero",
+			"bg-image",
+			"\"",
+			"=\"",
+			"\"",
+			"connect.reload()",
+			"Livereload",
+			"livereload",
+			"livereload(server)",
+			"MyHTMLParser",
+			">",
+			"<option value=",
+			"select",
+			"03",
+			"height",
+			"width",
+			"\\",
+			"Height",
+			"colorBtn",
+			"errorString",
+			"element_template",
+			"\"",
+			"openssl",
+			"PHP",
+			"[",
+			"MenuTitle",
+			"Полку",
+			"QtQml",
+			"password",
+			"username",
+			"model",
+			"newGuestbook",
+			"criteria",
+			"Criteria",
+			"criteria",
+			"gii",
+			"data",
+			"#",
+			"lastname",
+			"key",
+			"$array",
+			"array",
+			"<",
+			"p",
+			"sql",
+			"grid_1",
+			"horizontalCenter",
+			"100",
+			"result",
+			"middlename",
+			"20px",
+			"p",
+			"poem_line",
+			"lastname",
+			">",
+			"$",
+			"firstname",
+			".",
+			"placholder",
+			"Фамилия",
+			"query",
+			"num",
+			"'])\";\n",
+			"Номер проезда",
+			"Номер",
+			"Номер проезда",
+			"text",
+			"#l",
+			"BookLibrary",
+			"000",
+			"    // function create_owner($name=none, $middle_name=none, $last_name=none) {\n    //     echo \"$name, $middle_name, $last_name<br>\";\n",
+			"firstname",
+			"a:",
+			"display",
+			"display: inline",
+			"val",
+			"    ",
+			"defaul",
+			"default-cha",
+			"utf",
+			"balls_batch",
+			"menu",
+			"gree",
+			"sdfklhgsdklfj",
+			"openss",
+			"des",
+			"qbytearray _",
+			"qbytearray",
+			"handler",
+			"security",
+			"handle",
+			"Label",
+			"QLabel",
+			"qml",
+			"=\n",
+			"оппо",
+			"1",
+			"clock",
+			"myFunction",
+			"5em",
+			"paragraph",
+			"0px",
+			"header",
+			"div",
+			"h1",
+			"block",
+			"20px",
+			"script",
+			"net",
+			"45",
+			"net",
+			"bottom",
+			"player",
+			"coord",
+			"net",
+			"puck",
+			"angular_speed"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"from .base import BaseModel",
+			"from azovhotels.base import BaseModel",
+			"from ../base import BaseModel",
+			"from azovhotels.utils.base import BaseModel",
+			"    ",
+			" ",
+			"hotel_id",
+			"delete",
+			"PySide"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/template/index.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3602,
+								3602
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1548.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/stylus/main.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2618,
+								2618
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3213.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "build/development/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1649,
+								1649
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 726.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "build/development/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								723,
+								723
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 442.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/downloads/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 53644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26117,
+								26119
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 32679.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/downloads/Reuters TV.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 182.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "learning_makeups.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
